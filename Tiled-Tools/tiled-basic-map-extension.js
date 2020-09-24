@@ -1,6 +1,7 @@
 // Extension for exporting maps int Tiled Map Editor by Justin Baldock v1.0
 // The map is saved in a BASIC data format.
 // Insired by Johan Kårlin
+// https://github.com/github-retro/X16-tools/tree/master/Tiled-Tools
 
 var basicDataMapFormat = {
     name: "X16 BASIC Map",
